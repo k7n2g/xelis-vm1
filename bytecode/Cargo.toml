@@ -1,0 +1,9 @@
+[package]
+name = "xelis-bytecode"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+indexmap = "2.7.0"
+serde = { version = "1.0.215", features = ["derive"] }
+xelis-types = { path = "../types" }

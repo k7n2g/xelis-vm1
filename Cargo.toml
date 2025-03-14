@@ -1,0 +1,16 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "types",
+    "bytecode",
+    "vm",
+    "assembler",
+    "ast",
+    "parser",
+    "lexer",
+    "interpreter",
+    "environment",
+    "builder",
+    "compiler",
+]
