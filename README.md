@@ -1,4 +1,6 @@
-# XELIS VM
+# All Credit Goes to Slixe for Production of this code
+
+## XELIS VM
 XVM (XELIS Virtual Machine) is a fully customizable VM proposed with its suite including Lexer, Parser, Assembler, Compiler and the Virtual Machine.
 
 The name of the language used is **Silex**, which its syntax is inspired by Rust.
@@ -442,5 +444,6 @@ Allows you to isolate a part of the code / variables created.
 {
 	...
 }
-```#   x e l i s - v m 1  
+```#   x e l i s - v m 1 
+ 
  
